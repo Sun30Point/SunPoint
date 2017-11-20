@@ -165,11 +165,13 @@
     <Content Include="assets\css\style.css" />
     <Content Include="assets\fonts\fontawesome-webfont.svg" />
     <Content Include="assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="assets\images\ab2.png" />
     <Content Include="assets\images\ab.png" />
     <Content Include="assets\images\abtbg.jpg" />
     <Content Include="assets\images\apps.png" />
     <Content Include="assets\images\appsbg.jpg" />
-    <Content Include="assets\images\bannerbg.jpg" />
+    <Content Include="assets\images\bannerbg2.jpg" />
+    <Content Include="assets\images\bannerbg1.jpg" />
     <Content Include="assets\images\footerbg.jpg" />
     <Content Include="assets\images\ft.png" />
     <Content Include="assets\images\ftbg.jpg" />
