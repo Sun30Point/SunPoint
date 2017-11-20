@@ -569,8 +569,8 @@ input:-ms-input-placeholder {
 a.navbar-brand.our_logo{
     position: absolute;
     left: 0;
-    top: -50px;
-    width: 25%;
+    top: -10px;
+    width: 30%;
 }
 
 .header_top_menu .call_us_text a{
