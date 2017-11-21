@@ -169,10 +169,15 @@
     <Content Include="assets\images\ab.png" />
     <Content Include="assets\images\abtbg.jpg" />
     <Content Include="assets\images\abtbg1.jpg" />
+    <Content Include="assets\images\adobe_logo_png.png" />
     <Content Include="assets\images\apps.png" />
     <Content Include="assets\images\appsbg.jpg" />
+    <Content Include="assets\images\atlassian_vertical_logo.png" />
+    <Content Include="assets\images\autodesk_logo_detail.png" />
+    <Content Include="assets\images\avast_logo.png" />
     <Content Include="assets\images\bannerbg2.jpg" />
     <Content Include="assets\images\bannerbg.jpg" />
+    <Content Include="assets\images\eset_logo_2_1_.png" />
     <Content Include="assets\images\footerbg.jpg" />
     <Content Include="assets\images\ft.png" />
     <Content Include="assets\images\ftbg.jpg" />
@@ -181,6 +186,8 @@
     <Content Include="assets\images\logo.png" />
     <Content Include="assets\images\logo1.png" />
     <Content Include="assets\images\logo_sun.png" />
+    <Content Include="assets\images\mcafee_logo.png" />
+    <Content Include="assets\images\microsoft.png" />
     <Content Include="assets\images\newsbg.jpg" />
     <Content Include="assets\images\newsone.jpg" />
     <Content Include="assets\images\newsthree.jpg" />
@@ -196,7 +203,11 @@
     <Content Include="assets\images\pkli.png" />
     <Content Include="assets\images\portfoliobg.jpg" />
     <Content Include="assets\images\preloading.gif" />
+    <Content Include="assets\images\sketchapp_logo.jpg" />
+    <Content Include="assets\images\symantec_logo.png" />
+    <Content Include="assets\images\teamviewer_logo.png" />
     <Content Include="assets\images\textbg.jpg" />
+    <Content Include="assets\images\website_logo_0.jpg" />
     <Content Include="assets\js\jquery-easing\jquery.easing.1.3.js" />
     <Content Include="assets\js\main.js" />
     <Content Include="assets\js\plugins.js" />
