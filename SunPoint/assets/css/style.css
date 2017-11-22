@@ -915,7 +915,7 @@ font-size: 6rem;
 
 /* Footer Section CSS */
 .footer_widget{
-	background:url(../images/footerbg.jpg) center top no-repeat scroll;
+	background:url(../images/footerbg_n.jpg) center top no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
