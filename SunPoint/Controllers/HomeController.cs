@@ -16,7 +16,7 @@ namespace SunPoint.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
+            SunPoint.Re
             return View();
         }
 
@@ -25,6 +25,12 @@ namespace SunPoint.Controllers
             ViewBag.Message = "Your contact page.";
 
             return View();
+        }
+        public ActionResult ChangeCulture(string lang)
+        {
+            var langCookie = new HttpCookie("lang", lang) { HttpOnly = true };
+            Response.AppendCookie(langCookie);
+            return RedirectToAction("Index", "Home", new { culture = lang });
         }
     }
 }

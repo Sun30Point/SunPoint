@@ -118,31 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="aboutsPage" xml:space="preserve">
-    <value>Услуги</value>
+    <value>Послуги</value>
   </data>
   <data name="About_str1" xml:space="preserve">
-    <value>Немножко о нашей компании</value>
+    <value>Трошки про нашу компанію</value>
   </data>
   <data name="About_str2" xml:space="preserve">
-    <value>Мы лидеры в разроботке на Microsoft Azure и Sharepoint</value>
+    <value>Ми лідери в розробці на Microsoft Azure і Sharepoint</value>
   </data>
   <data name="About_str3" xml:space="preserve">
-    <value>Занимаемся разработкой порталов на используя современніе технологии, делаем современный дизайн, визуальные эффекты и оптимизированый и быстрый бекэнд.</value>
+    <value>Займаємося розробкою порталів на використовуючи современніе технології, робимо сучасний дизайн, візуальні ефекти і Оптимізований і швидкийбекэнд.</value>
   </data>
   <data name="About_str4" xml:space="preserve">
-    <value>Поставляем програмное обеспечение на любой вкус.</value>
+    <value>Поставляємо програмне забезпечення на будь-який смак.</value>
   </data>
   <data name="About_str5" xml:space="preserve">
-    <value>Оптимизироем базы даных, поддерживыем и настраиваем рабочие процессы Sharepointa, разрабатываем и применяем новые решения, новый дизайн, и полностью настраиваем сервисы и технологии sharepoint.</value>
+    <value>Оптімізіроем бази даних, поддержівием і налаштовуємо робочі процеси Sharepointa, розробляємо і застосовуємо нові рішення, новий дизайн, і повністю налаштовуємо сервіси та технології sharepoint.</value>
   </data>
   <data name="About_str6" xml:space="preserve">
-    <value>Програмируем и создаем чат ботов и многое многое другое связное с програмированием.</value>
+    <value>Програмуємо і створюємо чат ботів і багато багато іншого пов'язане з програмуванням.</value>
   </data>
   <data name="addressStr1" xml:space="preserve">
-    <value>Вы всегда можете с нами связться</value>
+    <value>Ви завжди можете з нами зв'язатися</value>
   </data>
   <data name="addressStr2" xml:space="preserve">
-    <value>Киев, Серпова, 11,(оф. 306)</value>
+    <value>Київ, Серпова, 11, (оф. 306)</value>
   </data>
   <data name="addressStr3" xml:space="preserve">
     <value>телефон: +38 067 ‎761 76 76</value>
@@ -151,94 +151,96 @@
     <value>Email: sun30point@gmail.com</value>
   </data>
   <data name="addressStr5" xml:space="preserve">
-    <value>Также вы можите прислать запрос заполнив следующую форму</value>
+    <value>Також ви можите надіслати запит заповнивши наступну форму</value>
   </data>
   <data name="adobeDescription" xml:space="preserve">
-    <value>Графический дизайн.</value>
+    <value>Графічний дизайн.</value>
   </data>
   <data name="adobeTitle" xml:space="preserve">
     <value>Adobe</value>
   </data>
   <data name="atlassianDescription" xml:space="preserve">
-    <value>Системы отслеживания ошибок.</value>
+    <value>Системи відслідковування помилок.</value>
   </data>
   <data name="atlassiantTitle" xml:space="preserve">
     <value>Atlassia</value>
   </data>
   <data name="avastDescription" xml:space="preserve">
-    <value>Информационной безопасность.</value>
+    <value>Інформаційною безпеку.</value>
   </data>
   <data name="avastTitle" xml:space="preserve">
     <value>Avast</value>
   </data>
   <data name="downloadPrice" xml:space="preserve">
-    <value>Скачать прайс</value>
+    <value>Завантажити прайс</value>
   </data>
   <data name="email" xml:space="preserve">
-    <value>Электронная почта</value>
+    <value>Електронна пошта</value>
   </data>
   <data name="essetDescription" xml:space="preserve">
-    <value>Информационной безопасность.</value>
+    <value>Інформаційною безпеку.</value>
   </data>
   <data name="essetTitile" xml:space="preserve">
     <value>Eset</value>
   </data>
   <data name="footer_widgePage" xml:space="preserve">
-    <value>Контакты</value>
+    <value>Контакти</value>
   </data>
   <data name="homePage" xml:space="preserve">
-    <value>Домашняя</value>
+    <value>Домашня</value>
   </data>
   <data name="macAfeeDescription" xml:space="preserve">
-    <value>Информационной безопасность.</value>
+    <value>Інформаційною безпеку.</value>
   </data>
   <data name="macAfeeTitle" xml:space="preserve">
     <value>MCAfee</value>
   </data>
   <data name="mainTitle" xml:space="preserve">
-    <value>ИТ Решения</value>
+    <value>ІТ Рішення.</value>
   </data>
   <data name="message" xml:space="preserve">
-    <value>Сообщение</value>
+    <value>Повідомлення</value>
   </data>
   <data name="microsoftDescriptio" xml:space="preserve">
-    <value>Семейства операционных систем.</value>
+    <value>Сімейства операційних систем.</value>
   </data>
   <data name="microsoftTitle" xml:space="preserve">
     <value>Microsoft</value>
   </data>
   <data name="name" xml:space="preserve">
-    <value>Имя</value>
+    <value>3/5000
+Imya
+Ім'я</value>
   </data>
   <data name="plants" xml:space="preserve">
-    <value>Производители</value>
+    <value>Виробники</value>
   </data>
   <data name="portfolioPage" xml:space="preserve">
-    <value>Прайсы</value>
+    <value>Прайси</value>
   </data>
   <data name="scetchAppDescription" xml:space="preserve">
-    <value>Проектирование интерфейсов.</value>
+    <value>Проектування інтерфейсів.</value>
   </data>
   <data name="scetchAppTitle" xml:space="preserve">
     <value>SketchApp</value>
   </data>
   <data name="send" xml:space="preserve">
-    <value>Отправить</value>
+    <value>Відправити</value>
   </data>
   <data name="subject" xml:space="preserve">
     <value>Тема</value>
   </data>
   <data name="subMainTitle" xml:space="preserve">
-    <value>Молодая и амбициозная команда професионалов удовлетрит любые ваши ИТ потребности начиная от поставки и поддержки програманого обеспечения до разработки новых проектов.</value>
+    <value>Молода і амбітна команда професіоналів удовлетріт будь-які ваші ІТ потреби починаючи від поставки і підтримки програманого забезпечення до розробки нових проектів.</value>
   </data>
   <data name="titleUp" xml:space="preserve">
-    <value>ИТ продукция 24/7</value>
+    <value>ІТ продукція 24/7</value>
   </data>
   <data name="venders" xml:space="preserve">
-    <value>Вендеры</value>
+    <value>Вендери</value>
   </data>
   <data name="zwSoftDescription" xml:space="preserve">
-    <value>2D и 3D-проектирования.</value>
+    <value>2D і 3D-проектування.</value>
   </data>
   <data name="zwSoftTitle" xml:space="preserve">
     <value>ZW Soft</value>

@@ -21,6 +21,11 @@
     </script>*@
 </head>
 <body>
+<a style="z-index: 9999; position: absolute;" href="@Url.Action("ChangeCulture", "Home", new { lang="ru"})">Русский</a>
+<a style="z-index: 9999; position: absolute; left: 100px;" href="@Url.Action("ChangeCulture", "Home", new { lang="en"})">English</a>
+<a style="z-index: 9999; position: absolute; left: 200px;" href="@Url.Action("ChangeCulture", "Home", new { lang="ua"})">Українська</a>
+<a style="z-index: 9999; position: absolute; left: 300px;" href="@Url.Action("ChangeCulture", "Home", new { lang="eе"})">Eesti</a>
+        
     @*<div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">

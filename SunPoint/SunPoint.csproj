@@ -147,10 +147,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_LocalResources\ResourceMain.ua.Designer.cs">
+    <Compile Include="App_GlobalResources\Resource.ua.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>ResourceMain.ua.resx</DependentUpon>
+      <DependentUpon>Resource.ua.resx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
@@ -246,11 +246,11 @@
     <Content Include="assets\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="assets\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="assets\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="App_LocalResources\ResourceMain.en.resx" />
-    <Content Include="App_LocalResources\ResourceMain.ee.resx" />
-    <EmbeddedResource Include="App_LocalResources\ResourceMain.ua.resx">
+    <Content Include="App_GlobalResources\Resource.en.resx" />
+    <Content Include="App_GlobalResources\Resource.ee.resx" />
+    <EmbeddedResource Include="App_GlobalResources\Resource.ua.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>ResourceMain.ua.Designer.cs</LastGenOutput>
+      <LastGenOutput>Resource.ua.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <None Include="Properties\PublishProfiles\SunPoint - FTP.pubxml" />
@@ -299,7 +299,7 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_LocalResources\ResourceMain.resx" />
+    <Content Include="App_GlobalResources\Resource.resx" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
