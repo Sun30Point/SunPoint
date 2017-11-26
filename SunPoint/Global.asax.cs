@@ -32,7 +32,7 @@ namespace SunPoint
             // or default value if something went wrong
             var cultureInfo = new CultureInfo(
                 routeCulture ?? (languageCookie != null
-                   ? ((languageCookie.Value == "ua") ? "uk" : languageCookie.Value)
+                   ? languageCookie.Value
                    : userLanguages != null
                        ? userLanguages[0]
                        : "ru")
