@@ -24,6 +24,7 @@ namespace SunPoint
             var handler = Context.Handler as MvcHandler;
             var routeData = handler != null ? handler.RequestContext.RouteData : null;
             var routeCulture = routeData != null ? (routeData.Values["culture"]==null?null:routeData.Values["culture"].ToString()) : null;
+
             var languageCookie = HttpContext.Current.Request.Cookies["lang"];
             var userLanguages = HttpContext.Current.Request.UserLanguages;
 
@@ -31,7 +32,7 @@ namespace SunPoint
             // or default value if something went wrong
             var cultureInfo = new CultureInfo(
                 routeCulture ?? (languageCookie != null
-                   ? languageCookie.Value
+                   ? ((languageCookie.Value == "ua") ? "uk" : languageCookie.Value)
                    : userLanguages != null
                        ? userLanguages[0]
                        : "ru")

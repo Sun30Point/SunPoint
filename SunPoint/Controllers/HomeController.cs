@@ -16,7 +16,6 @@ namespace SunPoint.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-            SunPoint.Re
             return View();
         }
 
