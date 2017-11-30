@@ -133,11 +133,7 @@
     <value>Pakume tarkvara igale maitsele.</value>
   </data>
   <data name="About_str5" xml:space="preserve">
-    <value>Перевести
-
-Оптимизироем базы даных, поддерживыем и настраиваем рабочие процессы Sharepointa, разрабатываем и применяем новые решения, новый дизайн, и полностью настраиваем сервисы и технологии sharepoint.
-
-193/5000
+    <value>
 Optimiziroyem bazy danykh, podderzhivyyem i nastraivayem rabochiye protsessy Sharepointa, razrabatyvayem i primenyayem novyye resheniya, novyy dizayn, i polnost'yu nastraivayem servisy i tekhnologii sharepoint.
 Optimeerige andmebaasi, toetage ja kohandage SharePointi töövoogu, arendage ja rakendage uusi lahendusi, uut kujundust ja kohandage Sharepointi teenuseid ja tehnoloogiaid täielikult.</value>
   </data>
@@ -151,9 +147,7 @@ Optimeerige andmebaasi, toetage ja kohandage SharePointi töövoogu, arendage ja
     <value>Kiiev, Serpova, 11, (kontor 306)</value>
   </data>
   <data name="addressStr3" xml:space="preserve">
-    <value>27/5000
-telefon: +38 067 ‎761 76 76
-telefon: +38 067 761 76 76</value>
+    <value>telefon: +38 067 761 76 76</value>
   </data>
   <data name="addressStr4" xml:space="preserve">
     <value>Email: sun30point@gmail.com</value>
@@ -198,9 +192,7 @@ telefon: +38 067 761 76 76</value>
     <value>Kodu</value>
   </data>
   <data name="macAfeeDescription" xml:space="preserve">
-    <value>28/5000
-Informatsionnoy bezopasnost'.
-Infoturve.</value>
+    <value>Infoturve.</value>
   </data>
   <data name="macAfeeTitle" xml:space="preserve">
     <value>MCAfee</value>
@@ -236,9 +228,7 @@ Infoturve.</value>
     <value>Saada</value>
   </data>
   <data name="subject" xml:space="preserve">
-    <value>4/5000
-Tema
-Teema</value>
+    <value>Teema</value>
   </data>
   <data name="subMainTitle" xml:space="preserve">
     <value>Noor ja ambitsioonikas spetsialistide meeskond rahuldab kõik teie IT-vajadused, alates tarkvara pakkumisest ja toetusest kuni uute projektide väljatöötamiseni.</value>

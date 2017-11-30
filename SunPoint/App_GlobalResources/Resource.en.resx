@@ -226,10 +226,7 @@
     <value>Send</value>
   </data>
   <data name="subject" xml:space="preserve">
-    <value>4/5000
-Tema
-Subject
-Предложить исправление</value>
+    <value>Subject</value>
   </data>
   <data name="subMainTitle" xml:space="preserve">
     <value>A young and ambitious team of professionals will satisfy any of your IT needs, from supply and support of software to the development of new projects.</value>
