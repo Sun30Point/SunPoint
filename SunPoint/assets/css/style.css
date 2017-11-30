@@ -1016,3 +1016,20 @@ font-size: 6rem;
 	text-decoration: none;
 
 }
+.flag_div{
+    z-index: 9999; 
+    position: absolute; 
+    left: 0px;
+}
+.flag_div{
+    float:right;
+}
+.flag_div a img{
+     width: 30px;
+
+}
+.current_lang{
+       color: black;
+    border-width: 2px;
+    border-style: solid;
+}

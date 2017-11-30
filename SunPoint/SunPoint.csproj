@@ -159,6 +159,7 @@
   <ItemGroup>
     <Content Include="assets\css\animate\animate.css" />
     <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\css\concat.css" />
     <Content Include="assets\css\font-awesome.min.css" />
     <Content Include="assets\css\plugins.css" />
     <Content Include="assets\css\responsive.css" />
@@ -181,6 +182,10 @@
     <Content Include="assets\images\bannerbg.jpg" />
     <Content Include="assets\images\ESET_logo.png" />
     <Content Include="assets\images\eset_logo_2_1_.png" />
+    <Content Include="assets\images\flag-of-Estonia.png" />
+    <Content Include="assets\images\flag-of-Russia.png" />
+    <Content Include="assets\images\flag-of-Ukraine.png" />
+    <Content Include="assets\images\flag-of-United-Kingdom.png" />
     <Content Include="assets\images\footerbg.jpg" />
     <Content Include="assets\images\footerbg_n.jpg" />
     <Content Include="assets\images\ft.png" />
@@ -232,6 +237,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="assets\fonts\fontawesome-webfont.eot" />
     <Content Include="assets\fonts\fontawesome-webfont.ttf" />
