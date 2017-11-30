@@ -1,0 +1,24 @@
+﻿@model SunPoint.Models.MailModel
+<h3>@Resources.Resource.addressStr5</h3>
+<div class="single_widget_form text-left">
+    @using (Html.BeginForm("EmailIndex", "SendMailer", FormMethod.Post, new { id = "formid" }))
+    {
+       
+            @Html.ValidationSummary()
+            <div class="form-group">
+                @Html.TextBoxFor(m => m.Name, new { placeholder = Resources.Resource.name, @class = "form-control", @name = "name" })
+            </div>
+            <div class="form-group">
+                @Html.TextBoxFor(m => m.Email, new { placeholder = Resources.Resource.email, @class = "form-control", @name = "email" })
+            </div>
+            <div class="form-group">
+                @Html.TextBoxFor(m => m.Subject, new { placeholder = Resources.Resource.subject, @class = "form-control", @name = "subject" })
+            </div> <!-- end of form-group -->
+            <div class="form-group">
+                @Html.TextAreaFor(m => m.Message, new { placeholder = Resources.Resource.message, rows = "3", @class = "form-control", @name = "message" })
+
+            </div>
+            <input type="submit" value="@Resources.Resource.send" class="btn btn-primary">
+        
+    }
+</div>

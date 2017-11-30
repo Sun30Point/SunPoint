@@ -8,27 +8,7 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js" lang="">
  <!--<![endif]-->
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>SunPoint - IT Solutions</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
-    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="~/assets/css/font-awesome.min.css">
-    <!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
-    <!--For Plugins external css-->
-    <link rel="stylesheet" href="~/assets/css/animate/animate.css" />
-    <link rel="stylesheet" href="~/assets/css/plugins.css" />
-    <!--Theme custom css -->
-    <link rel="stylesheet" href="~/assets/css/style.css?v=11">
-    <!--Theme Responsive css-->
-    <link rel="stylesheet" href="~/assets/css/responsive.css" />
-    <script src="~/assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-    <link href="~/assets/css/concat.css" rel="stylesheet" />
-</head>
+
 <body>
     <!--[if lt IE 8]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -251,7 +231,8 @@
                    
                     <div class="col-md-4">
                         <div class="single_widget wow fadeIn" data-wow-duration="5s">
-                            <h3>@Resources.Resource.addressStr5</h3>
+                            @RenderPage("~/Views/SendMailer/EmailIndex.cshtml")
+                            @*<h3>@Resources.Resource.addressStr5</h3>
                             <div class="single_widget_form text-left">
                                 <form action="#" id="formid">
                                     <div class="form-group">
@@ -262,13 +243,13 @@
                                     </div>
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="@Resources.Resource.subject">
-                                    </div> <!-- end of form-group -->
+                                    </div>  end of form-group 
                                     <div class="form-group">
                                         <textarea class="form-control" name="message" rows="3" placeholder="@Resources.Resource.message"></textarea>
                                     </div>
                                     <input type="submit" value="@Resources.Resource.send" class="btn btn-primary">
                                 </form>
-                            </div>
+                            </div>*@
                         </div>
                     </div>
                 </div>
