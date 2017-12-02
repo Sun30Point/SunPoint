@@ -220,7 +220,7 @@
     <value>Проектування інтерфейсів.</value>
   </data>
   <data name="scetchAppTitle" xml:space="preserve">
-    <value>SketchApp</value>
+    <value>SketchUpp</value>
   </data>
   <data name="send" xml:space="preserve">
     <value>Відправити</value>
@@ -242,5 +242,8 @@
   </data>
   <data name="zwSoftTitle" xml:space="preserve">
     <value>ZW Soft</value>
+  </data>
+  <data name="workOnRequest" xml:space="preserve">
+    <value>Працюємо по запросу.</value>
   </data>
 </root>

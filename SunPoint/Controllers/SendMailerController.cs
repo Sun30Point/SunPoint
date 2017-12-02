@@ -30,7 +30,7 @@ namespace SunPoint.Models
                 smtp.Host = "smtp.gmail.com";
                 smtp.Port = 587;
                 smtp.UseDefaultCredentials = false;
-                smtp.Credentials = new System.Net.NetworkCredential("sun30point@gmail.com", "Sun01052017"); // Enter seders User name and password  
+                smtp.Credentials = new System.Net.NetworkCredential("LtopMessage@gmail.com", "LtopSunPoint2017"); // Enter seders User name and password  
                 smtp.EnableSsl = true;
                 smtp.Send(mail);
                 return View("~/Views/Home/Index.cshtml");

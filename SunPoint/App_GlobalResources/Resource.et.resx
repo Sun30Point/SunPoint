@@ -222,7 +222,7 @@ Optimeerige andmebaasi, toetage ja kohandage SharePointi töövoogu, arendage ja
     <value>Liideste kujundamine.</value>
   </data>
   <data name="scetchAppTitle" xml:space="preserve">
-    <value>SketchApp</value>
+    <value>SketchUpp</value>
   </data>
   <data name="send" xml:space="preserve">
     <value>Saada</value>
@@ -244,5 +244,8 @@ Optimeerige andmebaasi, toetage ja kohandage SharePointi töövoogu, arendage ja
   </data>
   <data name="zwSoftTitle" xml:space="preserve">
     <value>ZW Soft</value>
+  </data>
+  <data name="workOnRequest" xml:space="preserve">
+    <value>Töötada nõudmisel</value>
   </data>
 </root>

@@ -262,6 +262,10 @@
       <LastGenOutput>Resource.uk.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <Content Include="Prices\Price_SunPoint_ Eset.xlsx" />
+    <Content Include="Prices\Price_SunPoint_Avast.xlsx" />
+    <Content Include="Prices\Price_SunPoint_Microsoft.xlsx" />
+    <Content Include="Prices\Price_SunPoint_ZWCAD.xlsx" />
     <None Include="Properties\PublishProfiles\SunPoint - FTP %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\SunPoint - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\SunPoint - Web Deploy %282%29.pubxml" />
@@ -299,7 +303,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Prices\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
