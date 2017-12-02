@@ -734,7 +734,7 @@ font-size: 6rem;
 
 /* Portfolio Section css */
 .portfolio{
-	background:url(../images/portfoliobg.jpg) center top no-repeat;
+	background:url(../images/portfoliobg.jpg?v=11) center top no-repeat;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
